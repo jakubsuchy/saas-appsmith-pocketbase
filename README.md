@@ -14,6 +14,7 @@
 # Getting Started
 
 - Install Pocketbase via instructions in the [pocketbase directory](https://github.com/jakubsuchy/saas-appsmith-pocketbase/tree/main/pocketbase)
+- Do not forget to upload a logo (there is a sample logo in pocketbase/) in Pocketbase -> Collections -> configuration -> edit the record
 - Go to Appsmith.com, click Create New -> Import
 - Import from file and use the file in the [appsmith directory](https://github.com/jakubsuchy/saas-appsmith-pocketbase/tree/main/appsmith)
 - After you import, you will be asked to update the Datasource Pocketbase. Change the URL to the URL of your pocketbase install
